@@ -15,8 +15,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
 ```python
 class Priyobrata:
     def __init__(self):
@@ -36,7 +34,7 @@ class Priyobrata:
         }
     
     def hackathon_stats(self):
-        return {"participated": "20+", "projects_built": "15+", "domains": ["NLP", "EdTech", "HealthTech", "GeoAI"]}
+        return {"participated": "20+", "projects_built": "15+", "domains": ["NLP", "EdTech", "HealthTech", "GeoAI", "Agents"]}
         
     def current_focus(self):
         return "Building production-grade AI systems that solve real-world problems at scale"
@@ -44,15 +42,12 @@ class Priyobrata:
 
 <div align="center">
 
-### 🏆 Achievements
 | 🎯 20+ Hackathons | 📚 15+ Projects | 🔬 Research Publications | 🏛️ IEEE Member |
 |------------------|-----------------|--------------------------|----------------|
 
 </div>
 
 ---
-
-## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -104,38 +99,68 @@ class Priyobrata:
 
 ---
 
-## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌊 AI Flood Validation System
-**IEEE Research Project | ML-Enhanced Crowdsourced Verification**
+### 🤖 Aura: PCA Ecosystem
+**Personal Cognitive Agent Ecosystem**
 
-<img src="https://img.shields.io/badge/Research-IEEE%20INDICON%202026-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
 
-- 🔬 **5-layer ML validation framework** with DEM processing, DBSCAN clustering, CNN+OpenCV ensemble
-- 📊 Achieved **F1 Score: 1.0** at 5-15% noise, **0.985** at 30% noise
-- 🌐 FastAPI backend with 10+ REST endpoints, Mapbox dashboard
-- 📱 EXIF geolocation extraction, real-time image analysis
+- 🧠 **Hybrid reasoning loop**, context-engineered planning, persistent memory
+- ⚡ Event-driven architecture with Lamport clocks
+- 🗄️ PostgreSQL + Qdrant (Vector DB) knowledge retrieval
+- 🕵️ Stealth Mode overlay with sub-second VAD via Deepgram
 
-`Python` `TensorFlow` `FastAPI` `OpenCV` `Docker` `MobileNetV2`
+`Python` `FastAPI` `Qdrant` `PostgreSQL` `OpenTelemetry`
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Academia Flow
-**AI-Powered Learning Management System**
+### 🌊 AI Flood Validation System
+**IEEE Research Project**
 
-<img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Research-IEEE%20INDICON%202026-blue?style=flat-square" />
 
-- 🐳 **Sandboxed Docker containers** for real-time Python/Java code execution
-- 🤖 **Google Gemini AI tutoring** with personalized learning paths
-- 🔍 Hybrid plagiarism detection (Levenshtein + stylistic analysis)
-- 📈 LTI grade passback to Canvas/Blackboard
+- 🔬 **5-layer ML validation framework** with DEM processing, DBSCAN clustering
+- 📊 Achieved **F1 Score: 1.0** at 5-15% noise, **0.985** at 30% noise
+- 🌐 FastAPI backend with 10+ REST endpoints, Mapbox dashboard
+- 📱 EXIF geolocation extraction, real-time image analysis
 
-`React` `Node.js` `Docker` `Redis` `Supabase` `Gemini API`
+`Python` `TensorFlow` `FastAPI` `OpenCV` `MobileNetV2`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💎 32 Point Groups
+**Crystallography Visualizer**
+
+<img src="https://img.shields.io/badge/Research-Computational-cyan?style=flat-square" />
+
+- 🔬 **Research-grade computational engine** to visualize 32 point groups
+- 🧭 Invariants like Group Closure and Centroid Stability (drift < 1e-7)
+- 🌌 Interactive 3D Orbit Visualization & Stereographic Projections
+- ⚙️ Optimised for pedagogy with deterministic reproducibility
+
+`JavaScript` `Three.js` `CSS3` `Math.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 DeCodeX 2026
+**VoltRide Operational Analysis**
+
+<img src="https://img.shields.io/badge/Data-Analysis-indigo?style=flat-square" />
+
+- 📈 Audited EV fleet dataset, correcting 40% data attribution error
+- 🚖 Discovered "Kill Zone" (<20% battery) & "Goldilocks" driver segment
+- 💰 Formulated 3-phase strategic plan projecting $112,500 recovery
+- 🌐 360-degree Interactive Operational Command Center
+
+`Python` `Data Analysis` `Dashboards`
 
 </td>
 </tr>
@@ -143,7 +168,7 @@ class Priyobrata:
 <td width="50%" valign="top">
 
 ### 🏥 HealthHub CMS
-**Clinical & Logistics Operating System**
+**Clinical & Logistics OS**
 
 <img src="https://img.shields.io/badge/Full--Stack-Healthcare-green?style=flat-square" />
 
@@ -152,13 +177,13 @@ class Priyobrata:
 - 🔐 HIPAA-compliant architecture with secure auth
 - 📱 Responsive "Futuristic Medical OS" glassmorphism design
 
-`React` `TypeScript` `Node.js` `MongoDB` `Docker` `JWT`
+`React 19` `TypeScript` `Node.js` `MongoDB` `Docker` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 Recruit AI
-**Intelligent Hiring Automation Platform**
+**Intelligent Hiring Automation**
 
 <img src="https://img.shields.io/badge/Enterprise-HR%20Tech-purple?style=flat-square" />
 
@@ -168,6 +193,38 @@ class Priyobrata:
 - 📊 Real-time pipeline analytics and bias detection
 
 `React` `FastAPI` `n8n` `PostgreSQL` `LLMs` `OAuth2`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Academia Flow
+**AI-Powered LMS**
+
+<img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" />
+
+- 🐳 **Sandboxed Docker containers** for real-time Python/Java code execution
+- 🤖 **Google Gemini AI tutoring** with personalized learning paths
+- 🔍 Hybrid plagiarism detection (Levenshtein + stylistic analysis)
+- 📈 LTI grade passback to Canvas/Blackboard
+
+`React` `Node.js` `Docker` `Redis` `Supabase` `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ VoiceText
+**Advanced Text-to-Speech Web App**
+
+<img src="https://img.shields.io/badge/AI-Speech-crimson?style=flat-square" />
+
+- 🗣️ Natural-sounding text-to-speech with customizable rates
+- 💳 Subscription payment processing via Stripe
+- 🔐 Secure authentication and user management
+- 📱 Responsive, accessible interface using Radix UI
+
+`React` `Tailwind` `Node.js` `NeonDB` `Drizzle` `Stripe`
 
 </td>
 </tr>
@@ -184,13 +241,13 @@ class Priyobrata:
 - 🍃 Sustainability-focused recommendations
 - 🗺️ Interactive map visualization with Mapbox
 
-`React` `FastAPI` `MongoDB` `Docker` `Gemini` `Tailwind`
+`React` `FastAPI` `MongoDB` `Docker` `Gemini Pro` `Mapbox`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗣️ Local Echo AI
-**Multilingual Travel Voice Companion**
+**Multilingual Voice Companion**
 
 <img src="https://img.shields.io/badge/NLP-Voice%20AI-teal?style=flat-square" />
 
@@ -199,7 +256,7 @@ class Priyobrata:
 - 🌍 Culturally intelligent multilingual recommendations
 - 🎵 FFmpeg audio processing pipeline
 
-`Python` `Flask` `NLP` `Google Cloud` `Gemini` `REST APIs`
+`Python` `Flask` `Google Cloud` `Gemini` `FFmpeg`
 
 </td>
 </tr>
@@ -216,30 +273,13 @@ class Priyobrata:
 - 📡 0-3 hour nowcasting for monsoon & cyclone systems
 - 🗺️ Real-time visualization with Plotly & Folium
 
-`PyTorch` `ConvLSTM` `Diffusion Models` `Xarray` `GDAL` `Rasterio`
+`PyTorch` `ConvLSTM` `Diffusion Models` `Xarray` `GDAL`
 
 </td>
-<td width="50%" valign="top">
-
-### 🎙️ SpeechCraft
-**AI Speech & Communication Platform**
-
-<img src="https://img.shields.io/badge/AI-EdTech-crimson?style=flat-square" />
-
-- 🎤 Speech analysis and improvement suggestions
-- 📊 Real-time feedback on communication skills
-- 🎯 Personalized practice exercises
-- 📈 Progress tracking dashboard
-
-`React` `TypeScript` `Vite` `Tailwind` `AI APIs`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💊 AI Pharmacy Automation
-**Prescription & Inventory Management**
+**Prescription Management**
 
 <img src="https://img.shields.io/badge/Status-Ongoing-yellow?style=flat-square" />
 
@@ -251,40 +291,23 @@ class Priyobrata:
 `TensorFlow` `OpenCV` `Tesseract OCR` `Python` `FastAPI`
 
 </td>
-<td width="50%" valign="top">
-
-### 🧠 Echo Mind
-**Mental Health & Wellness Platform**
-
-<img src="https://img.shields.io/badge/HealthTech-Wellness-green?style=flat-square" />
-
-- 🧘 AI-powered mental health support
-- 📝 Mood tracking and journaling
-- 🤖 Conversational AI companion
-- 📊 Wellness analytics and insights
-
-`React` `Node.js` `AI/ML` `MongoDB`
-
-</td>
 </tr>
 </table>
 
 <div align="center">
 
 ### 🔥 More Projects
-
 | Project | Description | Tech |
 |---------|-------------|------|
+| **AI-Powered Event Safety** | Crowd management and safety | `AI Agents` `Data Analytics` |
+| **Echo Mind** | Mental Health & Wellness Platform | `AI/ML` `Node.js` `MongoDB` |
 | **Bolt.diy** | AI-powered development assistant | `n8n` `LLMs` `Automation` |
-| **Event Safety Platform** | Public safety at large-scale events | `AI/ML` `Computer Vision` |
-| **OCR Dictation Platform** | Handwriting & speech digitization | `Tesseract` `Python` `FFmpeg` |
 
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ui07xWizardOp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
@@ -299,17 +322,14 @@ class Priyobrata:
 ---
 
 ## 🎓 Education & Certifications
-
 <div align="center">
 
 | Institution | Program | Duration | Status |
 |-------------|---------|----------|--------|
-| 🏛️ **IIT Patna** | Executive Program: Product Management & Agentic AI | 2026 | Pursuing |
+| 🏛️ **IIT Patna** | Executive Program: Product Management & Agentic AI | 2026 | Completed |
 | 🎓 **KIIT University** | B.Tech Computer Science Engineering | 2023-2027 | CGPA: 8.22 |
 
 </div>
-
-### 📜 Certifications
 
 <table>
 <tr>
@@ -344,7 +364,6 @@ class Priyobrata:
 ---
 
 ## 🏆 Experience & Leadership
-
 <div align="center">
 
 | Role | Organization | Highlights |
@@ -358,7 +377,6 @@ class Priyobrata:
 ---
 
 ## 🤝 Let's Connect!
-
 <div align="center">
 
 💼 **Open to:** AI/ML Engineering | Software Development | Product Management Roles
@@ -368,8 +386,6 @@ class Priyobrata:
 🌍 **Location:** Bhubaneswar, Odisha, India
 
 ---
-
-### 💡 *"Building intelligent systems today for a smarter tomorrow"*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
